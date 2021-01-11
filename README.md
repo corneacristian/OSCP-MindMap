@@ -1,3 +1,3 @@
 # OSCP-MindMap
 
-![Screenshot](OSCP-MindMap.png)
+![Screenshot](OSCP MindMap.png)
